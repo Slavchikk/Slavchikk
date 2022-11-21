@@ -15,8 +15,8 @@
 ### Необходимые условия :warning:
 
 1. <B>Visual Studio<B>
-    ⋅⋅*Зайти на сайт https://visualstudio.microsoft.com/downloads/
-    ⋅⋅*Установить нужную версию
+    ⋅⋅1Зайти на сайт https://visualstudio.microsoft.com/downloads/
+    ⋅⋅2Установить нужную версию
 2. <B>Наличие места на диске<B>
 
 
