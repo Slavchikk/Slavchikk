@@ -8,15 +8,15 @@
 
 Для работы с данным приложением потребуется Visual Studio.
 1. Откройте проект на github: https://github.com/Slavchikk/workWithBD.git
-2. Нажмите на кнопку <B>Code<B> в правом верхнем углу
+2. Нажмите на кнопку <B>Code</B> в правом верхнем углу
 3. Скопируйте ссылку и вставьте в Visual Studio в вкладке `клонированить репозиторий` или нажмите на `Download zip`
 
 
 ### Необходимые условия :warning:
 
 1. <B>Visual Studio<B>
-    +Зайти на сайт https://visualstudio.microsoft.com/downloads/
-    +Установить нужную версию
+    ⋅⋅*Зайти на сайт https://visualstudio.microsoft.com/downloads/
+    ⋅⋅*Установить нужную версию
 2. <B>Наличие места на диске<B>
 
 
