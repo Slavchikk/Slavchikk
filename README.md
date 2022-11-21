@@ -1,4 +1,9 @@
-### Hi there 👋
+### Проект "Кинотеатр" :airplane:
+![image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.8YwYf3xVoKZPRq_6lwzefQHaDl%26pid%3DApi&f=1&ipt=4a557c6a3a8b5a80aa8b596d3982ca260e90bc6275185f9cdf7f827d65e30927&ipo=images) 👋
+
+Проект в котором можно добавить, изменить, удалить билеты, и их характеристики и внести в изменения в <B>базу данных.</B>
+
+
 
 <!--
 **Slavchikk/Slavchikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
