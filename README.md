@@ -31,7 +31,20 @@
     <!--//для админа admin admin-->
 ```
 ### Добавление билета :ticket:
+<b>Основные страницы приложения</b>
++ Страницы администратора
+  + PageAdminTour
+  + PageAdminAddTour
+  + PageAdminMenu
+  + PageAdminSale
+  + PageAdminShowData
++ Страницы пользователя
+  + PageUserMenu
++ Общие страницы
+  + PageRegistration
+  + PageAuthorization
 
+  
 <b> В Visual Studio</b>
 +Запуск проекта
   +Скачать по вышеуказаному пути
