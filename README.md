@@ -15,8 +15,8 @@
 ### Необходимые условия :warning:
 
 1. <B>Visual Studio</B>
-  1. Зайти на сайт https://visualstudio.microsoft.com/downloads
-  2. Установить нужную версию
+  a. Зайти на сайт https://visualstudio.microsoft.com/downloads
+  b. Установить нужную версию
 2. <B>Наличие места на диске</B>
 
 ```xml
@@ -32,6 +32,7 @@
 ```
 ### Добавление билета :ticket:
 
+<B> В Visual Studio</B>
 +Запуск проекта
   +Скачать по вышеуказаному пути
   +Нажать клавишу f5 в  открытом проекте Visual Studio или на кнопку "Run"
@@ -47,7 +48,7 @@
 
  :neckbeard: **Вячеслав Александрович** - *Kinoteatr* - [Мой аккаунт на GitHub](https://github.com/Slavchikk)
 
-Так же посмотрите маркет машин [contributors](https://github.com/Slavchikk/CarsProject) пожалеете.
+Так же посмотрите маркет машин [здесь](https://github.com/Slavchikk/CarsProject) пожалеете.
 
 
 
