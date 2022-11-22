@@ -18,32 +18,10 @@
   + Зайти на сайт https://visualstudio.microsoft.com/downloads
   + Установить нужную версию
 2. <B>Наличие места на диске</B>
+3. <B>Остальные подходящие характеристики компьтера для работы с VS</B>
 
-```xml
-<Window x:Class="workWithBD.MainWindow"
-        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:workWithBD"
-        mc:Ignorable="d"
-        Title="MainWindow" Height="550" Width="800">
-    <!--//для админа admin admin-->
-```
+
 ### Добавление билета :ticket:
-<b>Основные страницы приложения</b>
-+ Страницы администратора
-  + PageAdminTour
-  + PageAdminAddTour
-  + PageAdminMenu
-  + PageAdminSale
-  + PageAdminShowData
-+ Страницы пользователя
-  + PageUserMenu
-+ Общие страницы
-  + PageRegistration
-  + PageAuthorization
-
 
 <b>В Visual Studio</b>
 + Запуск проекта
@@ -56,7 +34,18 @@
 + Далее перейти к просмотру билетов
 + Выбрать билет и редактировать его или добавить новый с помощью отдельной кнопки    
 
-<b>Для входа в приложение</b> 
+```xml
+<Window x:Class="workWithBD.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:workWithBD"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="550" Width="800">
+    <!--//для админа admin admin-->
+```
+ 
 ## Автор :underage: :shipit: :no_entry:
 
  :neckbeard: **Вячеслав Александрович** - *Kinoteatr* - [Мой аккаунт на GitHub](https://github.com/Slavchikk)
