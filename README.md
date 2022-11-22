@@ -14,12 +14,12 @@
 
 ### Необходимые условия :warning:
 
-1. <B>Visual Studio<B>
+1. <B>Visual Studio</B>
   1. Зайти на сайт https://visualstudio.microsoft.com/downloads
   2. Установить нужную версию
-2. <B>Наличие места на диске<B>
+2. <B>Наличие места на диске</B>
 
-    ```xml
+```xml
 <Window x:Class="workWithBD.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
@@ -29,7 +29,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="550" Width="800">
     <!--//для админа admin admin-->
-    ```
+```
 ### Добавление билета :ticket:
 
 +Запуск проекта
